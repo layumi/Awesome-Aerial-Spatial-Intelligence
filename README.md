@@ -11,6 +11,11 @@ Welcome to **Awesome Aerial Spatial Intelligence**, a curated collection of reso
 
 ---
 
+### Datasets
+- [DOTA: A Large-Scale Dataset for Object Detection in Aerial Images](https://captain-whu.github.io/DOTA/)
+- [University-1652: Drone-Based Geo-Localization](https://github.com/layumi/University1652-Baseline)
+- [SUES-200: Multi-Height Cross-View Benchmark](https://github.com/Reza-Zhu/SUES-200-Dataset)
+
 ## 1. Ground-Air Collaborative Perception and Visual Geolocalization
 
 - Lin, T.-Y., Cui, Y., Belongie, S., & Hays, J. (2015). Learning deep representations for ground-to-aerial geolocalization. *IEEE Conference on Computer Vision and Pattern Recognition*, 5007–5015.
