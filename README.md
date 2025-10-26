@@ -1,4 +1,4 @@
-# Awesome Aerial Spatial Intelligence
+# Awesome Aerial Spatial Intelligence [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![](https://github.com/layumi/Awesome-Aerial-Spatial-Intelligence/blob/main/1.jpg?raw=true)
 Welcome to **Awesome Aerial Spatial Intelligence**, a curated collection of resources, datasets, and research papers focused on advancing aerial spatial intelligence. This repository is designed to support our upcoming survey on aerial perception, detection, and navigation, covering key advancements in ground-air collaboration, remote sensing, and autonomous aerial systems. We welcome contributions via pull requests (PRs) to keep this resource up-to-date and comprehensive.
 
