@@ -2,6 +2,9 @@
 ![](https://github.com/layumi/Awesome-Aerial-Spatial-Intelligence/blob/main/1.jpg?raw=true)
 Welcome to **Awesome Aerial Spatial Intelligence**, a curated collection of resources, datasets, and research papers focused on advancing aerial spatial intelligence. This repository is designed to support our upcoming survey on aerial perception, detection, and navigation, covering key advancements in ground-air collaboration, remote sensing, and autonomous aerial systems. We welcome contributions via pull requests (PRs) to keep this resource up-to-date and comprehensive.
 
+## ⭐ Star the Repository
+If you find this collection useful, please give it a star on GitHub to help others discover it!
+
 ## Table of Contents
 - 🌍 [Ground-Air Collaborative Perception and Visual Geolocalization](#1-ground-air-collaborative-perception-and-visual-geolocalization)
 - 🛰️ [Remote Sensing Detection and Environmental Understanding](#2-remote-sensing-detection-and-environmental-understanding)
@@ -11,7 +14,7 @@ Welcome to **Awesome Aerial Spatial Intelligence**, a curated collection of reso
 
 ---
 
-### Datasets
+## Datasets
 - [DOTA: A Large-Scale Dataset for Object Detection in Aerial Images](https://captain-whu.github.io/DOTA/)
 - [University-1652: Drone-Based Geo-Localization](https://github.com/layumi/University1652-Baseline)
 - [SUES-200: Multi-Height Cross-View Benchmark](https://github.com/Reza-Zhu/SUES-200-Benchmark)
