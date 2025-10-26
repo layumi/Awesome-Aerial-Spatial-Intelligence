@@ -14,7 +14,7 @@ Welcome to **Awesome Aerial Spatial Intelligence**, a curated collection of reso
 ### Datasets
 - [DOTA: A Large-Scale Dataset for Object Detection in Aerial Images](https://captain-whu.github.io/DOTA/)
 - [University-1652: Drone-Based Geo-Localization](https://github.com/layumi/University1652-Baseline)
-- [SUES-200: Multi-Height Cross-View Benchmark](https://github.com/Reza-Zhu/SUES-200-Dataset)
+- [SUES-200: Multi-Height Cross-View Benchmark](https://github.com/Reza-Zhu/SUES-200-Benchmark)
 
 ## 1. Ground-Air Collaborative Perception and Visual Geolocalization
 
