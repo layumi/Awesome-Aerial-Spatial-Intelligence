@@ -58,6 +58,7 @@ If you find this collection useful, please give it a star on GitHub to help othe
 - Chu, M., Zheng, Z., Ji, W., Wang, T., & Chua, T.-S. (2024). Towards natural language-guided drones: GeoText-1652 benchmark with spatial relation matching. *European Conference on Computer Vision*, 213–231.
 - Wang, T., Zheng, Z., Sun, Y., Chua, T.-S., Yang, Y., & Yan, C. (2024). **Multiple-environment Self-adaptive Network for Aerial-view Geo-localization**. *Pattern Recognition*, 152, 110363. ([117] & [118] merged)
 - Wang, T., Zheng, Z., Zhu, Z., Sun, Y., Yang, Y., & Yan, C. (2024). Learning Cross-view Geo-localization Embeddings via Dynamic Weighted Decorrelation Regularization. *TGRS*.
+- Ji, Y., He, B., Tan, Z., & Wu, L. (2025). Game4Loc: A UAV Geo-Localization Benchmark from Game Data. *AAAI*.
 - Gao, X., Wu, Y., Yang, F., Luo, X., Wu, K., Chen, X., ... & Tu, Z. (2025). Airv2x: Unified air-ground vehicle-to-everything collaboration. *arXiv preprint arXiv:2506.19283*.
 - Ju, H., Huang, S., Liu, S., & Zheng, Z. (2025). Video2bev: Transforming drone videos to BEVs for video-based geo-localization. *ICCV*.
 - Albaluchi, Y., Fu, B., Damer, N., Ramachandra, R., & Raja, K. (2025). UAV-based person re-identification: A survey of UAV datasets, approaches, and challenges. *Computer Vision and Image Understanding*, 251, 104261.
